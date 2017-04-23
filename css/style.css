@@ -57,10 +57,7 @@ hr {
 
 #row1, #row3 {
     background-color: #F6F6F6;
-}
-
-#row3 {
-    padding-top: 30px;
+    padding: 30px;
 }
 
 
