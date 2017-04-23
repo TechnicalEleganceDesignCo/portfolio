@@ -4,26 +4,72 @@ body {
     word-wrap: break-word;
 }
 
+h1 {
+    font: 40px serif, Georgia;
+    color: #F6F6F6;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
 p {
     color: #292B2B;
+    font: 25px serif, Georgia;
+}
+
+hr {
+    border: 0;
+    border-top: 4px double #292B2B;
+    width: 80%;
+}
+
+.padImages {
+    padding-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .seperatorBar {
-    background-color: #292B2B;
+    color: #292B2B;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.headShots {
+    padding: 30px 20px;
+    max-height: 300px;
+}
+
+.socialMediaIcon {
+    padding: 20px 30px;
 }
 
 #container {
     padding-top: 50px;
     width: 90%;
     height: 100%;
-    /*padding:0;*/
-    /*margin:0;*/
+}
+
+#portfolioBar {
+    border: 0 #F6F6F6;
+    border-top: 4px double #F6F6F6;
+    width: 80%;
+}
+
+#row1, #row3 {
+    background-color: #F6F6F6;
+}
+
+#row3 {
+    padding-top: 30px;
 }
 
 
-.fixed-top {
-    /*margin-left: 0;*/
-    /*margin-right: 0;*/
-    /*margin-bottom:0;*/
+#row2 {
+    background-color: #292B2B
 }
+
+
+
+
+
 
